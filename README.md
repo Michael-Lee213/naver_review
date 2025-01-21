@@ -1,1 +1,1 @@
-naver_review 소스 
+naver_review 
